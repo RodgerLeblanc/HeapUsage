@@ -6,6 +6,7 @@ Here's how to add to your project :
 
 1) Import HeapUsage folder to your src folder so that you have those 2 files :
 /src/HeapUsage/HeapUsage.cpp
+
 /src/HeapUsage/HeapUsage.h
 
 2) In your application hpp file, add those lines
