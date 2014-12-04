@@ -5,6 +5,7 @@ This class can be added to any BB10 headless app to retrieve Heap Memory usage a
 Here's how to add to your project :
 
 1) Import HeapUsage folder to your src folder so that you have those 2 files :
+
 /src/HeapUsage/HeapUsage.cpp
 
 /src/HeapUsage/HeapUsage.h
